@@ -58,6 +58,7 @@ return (
     LastName = {stud.lastName}
     Skill = {stud.skill}
     Company = {stud.company}
+    Grades = {stud.grades}
     Average = {averageGrade}
     />
   );
