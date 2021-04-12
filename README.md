@@ -4,6 +4,13 @@ Used React framework for this Assessment.
 
 Replicated the front-end application by fetching data from public JSON API (url: https://api.hatchways.io/assessment/students), styled the web page. There is a text input field where we can filter list of student's by their name (both first and last). Added an expanded list view to each student so that the test scores can be viewed.
 
+##Screenshots
+![](https://github.com/deepthyp1991/hatchway-assessment/blob/master/docs/home.png?raw=true)
+
+![](https://github.com/deepthyp1991/hatchway-assessment/blob/master/docs/search.png?raw=true)
+
+![](https://github.com/deepthyp1991/hatchway-assessment/blob/master/docs/expanded.png?raw=true)
+
 
 # Getting Started with Create React App
 
